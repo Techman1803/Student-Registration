@@ -2,7 +2,7 @@
 Student registration Project By using Java Jframe in NetBeans 
 # Student-Registration
 
-# project-documentation
+# Project-documentation
 
 <p align="center">
   <a href="" rel="noopener">
@@ -10,7 +10,7 @@ Student registration Project By using Java Jframe in NetBeans
 </p>
 
 
-<h3 align="center">Student Registration</h3>
+<h3 align="center">Student-Registration</h3>
 
 ---
 
