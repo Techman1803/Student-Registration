@@ -10,7 +10,7 @@ Student registration Project By using Java Jframe in NetBeans
 </p>
 
 
-<h3 align="center">Swag India</h3>
+<h3 align="center">Student Registration</h3>
 
 ---
 
