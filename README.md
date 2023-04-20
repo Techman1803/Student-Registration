@@ -39,25 +39,22 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+First You need to install Apache Netbeans 17 you can download it by using the below link 
+https://netbeans.apache.org/download/index.html
+Next you need to install MySQL Server, MySQL Shell, MySQL WorkBench 
+https://dev.mysql.com/downloads/installer/
 ```
 
 ### Installing
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+After Completing the download start the SetUP 
+After SetUp has been Started you need to select on Custom and click on Next
+You can see the Available Products
+In the Click on MySQL Server and go inside of it and Drag it to the Product to be installed Box
+Do the Same for MySQL Application and MySQL Shell and Click on Next 
+After that You can see the Installation Set Up and click on Execute and Product will install one by one 
+After completing the SetUp click on next and on Product Configuration Click on Next 
+Now Type and networking will be visible and there you Check for port no 3306 and keep the default and Click on next 
+Net set Root password keep Clicking on Next and Execute Your MySQL installation will be completed .
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
