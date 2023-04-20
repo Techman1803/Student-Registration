@@ -64,11 +64,6 @@ Open Apache NetBeans and Go to Library next Add Library and there you import the
 Then Create one Database with Name Christ in the MySQL WorkBench
 and inside of that datbase create one table of name record of 4 columns ID,Name,Mobile and Course.
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> ccb3ef98e38119bc8d4d95dd9750ea018ced0479
 ## 🎈 Usage <a name="usage"></a>
 Main Use of this program is we can list out the Students with their Respective Couses and we can find the No of Students on Each Course
 
@@ -81,6 +76,5 @@ First Extract the file from GitHub and import it into Apache NetBeans and you ca
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Skill-Lync
+- Tutors Chanell
