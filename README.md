@@ -23,7 +23,6 @@ Student registration Project By using Java Jframe in NetBeans
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
-- [Flow Chart](#flowchart)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
@@ -46,6 +45,8 @@ https://dev.mysql.com/downloads/installer/
 ```
 
 ### Installing
+
+Fist Click ond NetBeans URL and Install it and Then
 After Completing the download start the SetUP 
 After SetUp has been Started you need to select on Custom and click on Next
 You can see the Available Products
@@ -56,8 +57,12 @@ After completing the SetUp click on next and on Product Configuration Click on N
 Now Type and networking will be visible and there you Check for port no 3306 and keep the default and Click on next 
 Net set Root password keep Clicking on Next and Execute Your MySQL installation will be completed .
 
+Then Download the MYSQL Connectors from Same MySQL Website and then Extract it and keep it in one folder
+
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+First Extract the file from GitHub and import it into Apache NetBeans and Go to Library next Add Library and there you import the MySQL Connector
+Then Create one Database with Name Christ in the MySQL WorkBench
+and inside of that datbase create one table of name record of 4 columns ID,Name,Mobile and Course.
 
 ### Break down into end to end tests
 Explain what these tests test and why
@@ -76,15 +81,6 @@ Add notes about how to use the system.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Flow Chart <a name = "flowchart"></a>
-
-![bg width:1000px](./swagindiaflowchart.png)
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@SkillLymc](https://github.com/kylelobo) - FSD
