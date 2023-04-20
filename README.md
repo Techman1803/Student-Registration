@@ -60,16 +60,9 @@ Net set Root password keep Clicking on Next and Execute Your MySQL installation 
 Then Download the MYSQL Connectors from Same MySQL Website and then Extract it and keep it in one folder
 
 ## 🔧 Running the tests <a name = "tests"></a>
-First Extract the file from GitHub and import it into Apache NetBeans and Go to Library next Add Library and there you import the MySQL Connector
+Open Apache NetBeans and Go to Library next Add Library and there you import the MySQL Connector
 Then Create one Database with Name Christ in the MySQL WorkBench
 and inside of that datbase create one table of name record of 4 columns ID,Name,Mobile and Course.
-
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 <<<<<<< HEAD
 
@@ -77,10 +70,10 @@ Give an example
 =======
 >>>>>>> ccb3ef98e38119bc8d4d95dd9750ea018ced0479
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+Main Use of this program is we can list out the Students with their Respective Couses and we can find the No of Students on Each Course
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+First Extract the file from GitHub and import it into Apache NetBeans and you can run the program
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@SkillLymc](https://github.com/kylelobo) - FSD
