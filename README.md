@@ -60,7 +60,7 @@ Then Download the MYSQL Connectors from Same MySQL Website and then Extract it a
 ## 🔧 Running the tests <a name = "tests"></a>
 Open Apache NetBeans and Go to Library next Add Library and there you import the MySQL Connector
 Then Create one Database with Name Christ in the MySQL WorkBench
-and inside of that datbase create one table of name record of 4 columns ID,Name,Mobile and Course.
+and inside of that datbase create one table of name record of 4 columns ID, Name, Mobile and Course.
 
 ## 🎈 Usage <a name="usage"></a>
 Main Use of this program is we can list out the Students with their Respective Couses and we can find the No of Students on Each Course
