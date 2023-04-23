@@ -69,7 +69,7 @@ Main Use of this program is we can list out the Students with their Respective C
 First Extract the file from GitHub and import it into Apache NetBeans and you can run the program
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@SkillLymc](https://github.com/kylelobo) - FSD
+- [@Vignesh G](https://github.com/kylelobo) - FSD
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
