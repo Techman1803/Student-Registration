@@ -78,7 +78,7 @@ First Extract the file from GitHub and import it into Apache NetBeans and you ca
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MySQL](https://www.mongodb.com/) - Database
-- [JAVA JFrame](https://expressjs.com/) - Language Used
+- [JAVA](https://expressjs.com/) - JFrame
 - [NetBeans](https://vuejs.org/) - IDE
 
 ## ✍️ Authors <a name = "authors"></a>
