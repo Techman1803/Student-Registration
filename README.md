@@ -29,6 +29,7 @@ Student registration Project By using MySQL DataBase and Java Jframe in NetBeans
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
+- [Built Using](#built_using)
 - [Usage](#usage)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
@@ -74,6 +75,12 @@ Main Use of this program is we can list out the Students with their Respective C
 
 ## 🚀 Deployment <a name = "deployment"></a>
 First Extract the file from GitHub and import it into Apache NetBeans and you can run the program
+
+## ⛏️ Built Using <a name = "built_using"></a>
+- [MongoDB](https://www.mongodb.com/) - Database
+- [Express](https://expressjs.com/) - Server Framework
+- [VueJs](https://vuejs.org/) - Web Framework
+- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@Vignesh G](https://github.com/kylelobo) - FSD
