@@ -77,10 +77,9 @@ Main Use of this program is we can list out the Students with their Respective C
 First Extract the file from GitHub and import it into Apache NetBeans and you can run the program
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [MySQL](https://www.mongodb.com/) - Database
+- [JAVA JFrame](https://expressjs.com/) - Language Used
+- [NetBeans](https://vuejs.org/) - IDE
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@Vignesh G](https://github.com/kylelobo) - FSD
