@@ -1,6 +1,5 @@
 # Student-Registration
-Student registration Project By using Java Jframe in NetBeans 
-# Student-Registration
+Student registration Project By using MySQL DataBase and Java Jframe in NetBeans 
 
 # Project-Documentation
 
