@@ -1,3 +1,7 @@
+# Student-Registration
+Student registration Project By using Java Jframe in NetBeans 
+# Student-Registration
+
 # Project-Documentation
 
 <p align="center">
@@ -15,22 +19,6 @@
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
-
----
-
-# Student-Registration
-Student registration Project By using Java Jframe in NetBeans 
-# Student-Registration
-
-# Project-documentation
-
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
-
-
-<h3 align="center">Student-Registration</h3>
 
 ---
 
